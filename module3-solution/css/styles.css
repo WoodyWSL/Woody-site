@@ -1,0 +1,59 @@
+body {
+	font-size: 16px;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+	padding-top: 20px;
+}
+
+.navbar-brand {
+	margin-bottom: 20px;
+}
+
+.navbar-brand h1 { /* Company name */
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+
+.navbar-header button.navbar-toggle {
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #FFF;
+}
+
+#nav-list a {
+	color: #FFF;
+}
+
+#nav-list a:hover {
+	background-color: #FFF;
+	color: #000;
+}
+
+#page-title {
+	margin-top: 20px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+#main-container div.row div{
+	margin-bottom: 15px;
+}
+
+#main-container div.row div div{
+	padding: 20px;
+	background-color: grey;
+}
+
+#main-container div.row div div h3{
+	margin-top: 0;
+	text-align: center;
+}
