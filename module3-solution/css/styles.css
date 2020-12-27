@@ -29,6 +29,10 @@ body {
 	border: 1px solid #FFF;
 }
 
+.navbar-header .icon-bar {
+	color: #fff;
+}
+
 #nav-list a {
 	color: #FFF;
 }
