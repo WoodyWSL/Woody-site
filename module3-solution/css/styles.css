@@ -25,12 +25,12 @@ body {
 .navbar-header button.navbar-toggle {
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-header button.navbar-toggle {
 	border: 1px solid #FFF;
 }
 
 .navbar-header .icon-bar {
-	color: #fff;
+	background-color: #fff;
 }
 
 #nav-list a {
